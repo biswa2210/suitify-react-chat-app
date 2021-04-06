@@ -13,3 +13,13 @@ First user has to sign up with email id and then after that whenever he enters h
  It is very safe. No one accept me or the other group member can read messages. Also for the login system no one accept user can read private mesaages.
 # suitify-react-chat-app
 I have made this using react, firebaseauth,chat engine sdk as rest api etc. It is fully responsive.
+<div align="center">
+ 
+<img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
+
+<img src="s12.PNG" width="450" height= "250"> <img src="s13.PNG" width="450" height= "250">
+
+<img src="s14.PNG" width="450" height= "250"> <img src="s15.PNG" width="450" height= "250">
+
+<img src="s16.PNG" width="450" height= "250">
+</div>
