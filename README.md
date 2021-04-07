@@ -35,12 +35,17 @@ Discussion is important for any queries of user. When developers guide the user 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For chatting I have used [chat engine](https://chatengine.io/). For password I have used [firebase](https://firebase.google.com/).
 ## Screenshots :point_down: 
 <div align="center">
- 
-<img src="s1.PNG" width="450" height= "250"> <img src="s2.PNG" width="450" height= "250">
+<img src="s1.PNG" width="400" height= "250"> <img src="s2.PNG" width="400" height= "250">
 
-<img src="s11.PNG" width="450" height= "250"> <img src="s16.PNG" width="450" height= "250">
+<img src="s3.PNG" width="400" height= "250"> <img src="s4.PNG" width="400" height= "250">
+
+<img src="s5.PNG" width="400" height= "250"> <img src="s6.PNG" width="400" height= "250">
+
+<img src="s7.PNG" width="400" height= "250"> 
+
 
 </div>
+
 
 ## Available Scripts
 
