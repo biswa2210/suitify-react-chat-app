@@ -11,13 +11,22 @@
 [![Generic badge](https://img.shields.io/badge/contact%20me-facebook-blue)](https://www.facebook.com/biswarup.bhattacharjee.5811) [![Generic badge](https://img.shields.io/badge/visit%20my%20projects%20-github-brightgreen)](https://github.com/biswa2210)
 
 ## About :point_down: 
-It is a real time chatting web application. Messaging apps (a.k.a. "social messaging" or "chat applications") are apps and platforms that enable instant messaging. Here is a sign up or login page to get into the web app. Then we can create chat and start messaging. We can set profile picture also. 
+It is a real time chatting web application. Messaging apps (a.k.a. "social messaging" or "chat applications") are apps and platforms that enable instant messaging. Here is a sign up or login page to get into the web app. Then we can create chat and add other users by their usernames. Then we can message with them. We can share images by chosing them from our device. We can set profile avatar also to make the performance personalized. 
 ## LINK : :point_right: https://suitify-react-chat-app.vercel.app/
 ## Purpose :point_down:
-I have made this application so that I can give it to most of the people I know so that everyone use this and stay connected through online secured messaging.
+Social Media plays a crucial role in connecting people and developing relationships, not only with key influencers and journalists covering your company’s sector, but also provides a great opportunity to establish customer service by gathering input, answering questions and listening to their feedback.<br>
+The insight you gain from social media listening provide your organization with a better understanding of what’s working and what’s not, and goes a long way in helping your  public image. It’s important to be aware real-time of what people are saying about your company as well as your competitors.<br>
+Social media has become the most influential and important virtual space where the platform is not only used for social networking but is also a great way of digitally advertising your brand and your products. Social media's power is commendable as you get to reach a large number of people within seconds of posting an ad, helping you reduce your costs, and making your ads reach out to your potential audience through these social media advertisements. With the huge number of online users, which is almost 59% of the world’s population, marketers must not miss out on their chance of marketing on these digital forums where they can reach all the maximum number of potential buyers compared with print or television media marketing.I have made this application so that I can give it to most of the people I know so that everyone use this and stay connected through online secured messaging. 
 ## Use :point_down:
 First user has to sign up with email id and then after that whenever he enters he has to login. Then user can create chat and message with friends.
 ## Importance :point_down:
+It is important to use platforms that are commonly used by customers so that you can reach out to your target audience at a more effective rate.
+Nothing can be better than these social media networks where most users spend a larger chunk of their time during the entire day and night.
+Being a business on social media networks, you might want to make the most out of these consumers' habits, which can help you create some major leads.
+These social media channels help you attract the right customers with the right information at the right time and help you showcase your product or brand to potential customers at the right times. 
+This is how the mechanism of such social media websites works.
+It gives you a chance to make the most out of your social media marketing strategies. <br>
+The web application I have made, is totally safe there is no chance to breach any security. No one can see user's messages. A safe and secure and user friendly web application is really helpful and important. 
 ## Folder Structure :point_down:
 ```bash
 Suitify
@@ -56,13 +65,13 @@ Suitify
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For chatting I have used [chat engine](https://chatengine.io/). For password I have used [firebase](https://firebase.google.com/).
 ## Screenshots :point_down: 
 <div align="center">
-<img src="s1.PNG" width="400" height= "250"> <img src="S2.PNG" width="400" height= "250">
+<a href="s1.PNG"><img src="s1.PNG" width="400" height= "250"></a> <a href="s2.PNG"><img src="S2.PNG" width="400" height= "250"></a>
 
-<img src="S3.PNG" width="400" height= "250"> <img src="s4.PNG" width="400" height= "250">
+<a href="s3.PNG"><img src="S3.PNG" width="400" height= "250"></a> <a href="s4.PNG"><img src="s4.PNG" width="400" height= "250"></a>
 
-<img src="s5.PNG" width="400" height= "250"> <img src="s6.PNG" width="400" height= "250">
+<a href="s5.PNG"><img src="s5.PNG" width="400" height= "250"></a> <a href="s6.PNG"><img src="s6.PNG" width="400" height= "250"></a>
 
-<img src="s7.PNG" width="400" height= "250"> 
+<a href="s7.PNG"><img src="s7.PNG" width="400" height= "250"></a>
 
 
 </div>
