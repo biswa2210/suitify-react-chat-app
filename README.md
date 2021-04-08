@@ -1,18 +1,5 @@
-# SUITIFY-REACT-CHAT-APP
-## This new Web application is created by Biswarup Bhattacharjee, student of BTECH, of University of Engineering and Management, Kolkata.
-## Email Id: bbiswa471@gmail.com. 
-## Contact No: 916290272740. 
-## About 
+# SUITIFY-REACT-CHAT-APP : :star_struck:
 
-## LINK : 
-
-## Importance
- It is very safe. No one accept me or the other group member can read messages. Also for the login system no one accept user can read private mesaages.
-# suitify-react-chat-app
-I have made this using react, firebaseauth,chat engine sdk as rest api etc. It is fully responsive.
-[![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/advance-javascript-yellow)](https://shields.io/)
-
-# DISCUSSION-PART :star_struck:
 
 ***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
@@ -30,7 +17,7 @@ I have made this application so that I can give it to most of the people I know 
 ## Use :point_down:
 First user has to sign up with email id and then after that whenever he enters he has to login. Then user can create chat and message with friends.
 ## Importance :point_down:
-Discussion is important for any queries of user. When developers guide the user properly it will very helpful for the user to explore the web site and study algorithms.
+
 ## Making :point_down:
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For chatting I have used [chat engine](https://chatengine.io/). For password I have used [firebase](https://firebase.google.com/).
 ## Screenshots :point_down: 
