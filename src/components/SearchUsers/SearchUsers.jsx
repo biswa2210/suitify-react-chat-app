@@ -3,7 +3,11 @@ import { useDebounce } from 'hooks';
 import { Search } from 'semantic-ui-react';
 import { useEffect, useRef, useState } from 'react';
 import { addPerson, getOtherPeople } from 'react-chat-engine';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const SearchUsers = ({ visible, closeFn }) => {
   let searchRef = useRef();
 
