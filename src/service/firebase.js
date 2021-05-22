@@ -2,7 +2,11 @@ import firebase from 'firebase/app'; // <-- This must be first
 import 'firebase/auth';
 import 'firebase/storage';
 import 'firebase/firestore';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 try {
   firebase.initializeApp({
     apiKey: process.env.REACT_APP_API_KEY,
