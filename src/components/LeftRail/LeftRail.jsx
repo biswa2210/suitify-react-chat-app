@@ -3,7 +3,11 @@ import { useResolved } from 'hooks';
 import { ChatList } from 'components';
 import { RailHeader } from 'components';
 import { Loader } from 'semantic-ui-react';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const LeftRail = () => {
   const { myChats, createChatClick } = useChat();
   const chatsResolved = useResolved(myChats);
