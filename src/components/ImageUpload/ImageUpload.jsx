@@ -1,7 +1,11 @@
 import AvatarEditor from 'react-avatar-editor';
 import { Image, Modal } from 'semantic-ui-react';
 import { useEffect, useRef, useState } from 'react';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const ImageUpload = ({
   file,
   close,
