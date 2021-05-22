@@ -2,7 +2,11 @@ import { useChat } from 'context';
 import { ChatAvatar } from 'components';
 import { groupMessages } from 'helpers';
 import { useScrollToBottom } from 'hooks';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const MessageList = () => {
   const { selectedChat } = useChat();
   useScrollToBottom(selectedChat, 'chat-messages');
