@@ -1,7 +1,11 @@
 import { fb } from 'service';
 import { createContext, useContext, useEffect, useState } from 'react';
 import { newChat, leaveChat, deleteChat, getMessages } from 'react-chat-engine';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const ChatContext = createContext();
 
 export const ChatProvider = ({ children, authUser }) => {
