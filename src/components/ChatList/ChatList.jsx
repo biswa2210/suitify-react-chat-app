@@ -3,7 +3,11 @@ import { useChat } from 'context';
 import { ChatAvatar } from 'components';
 import { Icon } from 'semantic-ui-react';
 import { joinUsernames, notMe } from 'helpers';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const ChatList = () => {
   const {
     myChats,
