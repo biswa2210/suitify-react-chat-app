@@ -2,7 +2,11 @@ import { fb } from 'service';
 import { useChat } from 'context';
 import { Image } from 'semantic-ui-react';
 import React, { useEffect, useState } from 'react';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const ChatAvatar = ({ chat, username, className }) => {
   const { chatConfig } = useChat();
   const [avatar, setAvatar] = useState('');
