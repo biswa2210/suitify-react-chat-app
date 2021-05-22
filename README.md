@@ -83,21 +83,6 @@ Suitify
 
 It has been created using advance JavaScript, advance CSS3, SCSS, ReactJS, advance HTML5, Firebase, Chat Engine XDK, nodejs and Formik. It is fully responsive. For chatting I have used [chat engine](https://chatengine.io/). For password I have used [firebase](https://firebase.google.com/).
 
-## Screenshots :point_down: 
-
-<div align="center">
-<a href="pics/s1.png"><img src="pics/s1.png" width="400" height= "300"></a> <a href="pics/s2.png"><img src="pics/S2.png" width="400" height= "300"></a>
-
-<a href="pics/s3.png"><img src="pics/S3.png" width="400" height= "300"></a> <a href="pics/s4.png"><img src="pics/s4.png" width="400" height= "300"></a>
-
-<a href="pics/s5.png"><img src="pics/s5.png" width="400" height= "300"></a> <a href="pics/s6.png"><img src="pics/s6.png" width="400" height= "300"></a>
-
-<a href="pics/s7.png"><img src="pics/s7.png" width="800" height= "300"></a>
-
-
-</div>
-
-
 ## Available Scripts
 
 In the project directory, you can run:
@@ -164,5 +149,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Screenshots :point_down: 
+
+<div align="center">
+<a href="pics/s1.png"><img src="pics/s1.png" width="400" height= "300"></a> <a href="pics/s2.png"><img src="pics/S2.png" width="400" height= "300"></a>
+
+<a href="pics/s3.png"><img src="pics/S3.png" width="400" height= "300"></a> <a href="pics/s4.png"><img src="pics/s4.png" width="400" height= "300"></a>
+
+<a href="pics/s5.png"><img src="pics/s5.png" width="400" height= "300"></a> <a href="pics/s6.png"><img src="pics/s6.png" width="400" height= "300"></a>
+
+<a href="pics/s7.png"><img src="pics/s7.png" width="800" height= "300"></a>
+
+
+</div>
+
 
 
