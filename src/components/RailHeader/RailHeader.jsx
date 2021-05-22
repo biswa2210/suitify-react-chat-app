@@ -4,7 +4,11 @@ import { useResolved } from 'hooks';
 import { useRef, useState } from 'react';
 import { ImageUpload } from 'components';
 import { Icon, IconGroup, Image, Loader } from 'semantic-ui-react';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const RailHeader = () => {
   const { chatConfig } = useChat();
   const configResolved = useResolved(chatConfig);
