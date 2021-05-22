@@ -3,7 +3,11 @@ import { useState, useRef } from 'react';
 import { Icon } from 'semantic-ui-react';
 import { ImageUpload } from 'components';
 import { sendMessage } from 'react-chat-engine';
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 export const ChatInput = () => {
   const { chatConfig, selectedChat } = useChat();
   const [chatInputText, setChatInputText] = useState('');
