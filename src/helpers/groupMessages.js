@@ -1,3 +1,8 @@
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 /* 
   Turns a 1D array into a 2D array by grouping
   all messages from the same sender if they are
