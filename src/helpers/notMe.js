@@ -4,3 +4,8 @@
 export const notMe = (chatConfig, selectedChat) => {
   return selectedChat.people.find(p => p.person.username !== chatConfig.userName)?.person?.username;
 };
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
